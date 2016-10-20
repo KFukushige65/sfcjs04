@@ -28,7 +28,7 @@ function nor(a, b){
 }
 
 function xor(a, b){
-  let c = a 
+  let c = a　
 }
 
 

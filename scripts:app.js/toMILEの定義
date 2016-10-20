@@ -1,0 +1,5 @@
+function toMILE(km){
+let result;
+result = div(km, 1.6)
+return result;
+}

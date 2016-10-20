@@ -1,0 +1,5 @@
+function toKM(mile){
+let result;
+result = mile / 1.6
+return result
+}

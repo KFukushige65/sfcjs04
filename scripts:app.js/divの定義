@@ -1,6 +1,0 @@
-関数divの定義
-     function div(a, b){
-     let result;
-     result = a / b
-     return result;
-    }
